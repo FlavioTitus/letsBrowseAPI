@@ -1,0 +1,10 @@
+.classe2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:600px;
+    height:180px;
+    margin:auto;
+    background-color:#ff0000;
+    color:#fff; 
+}
